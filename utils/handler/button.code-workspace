@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../button"
+		},
+		{
+			"path": "../../commands"
+		},
+		{
+			"path": "../../event"
+		},
+		{
+			"path": "../../node_modules"
+		},
+		{
+			"path": "../../select"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
